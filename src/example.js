@@ -1,3 +1,3 @@
 // this is some sample code for example
 
-console.log('hello world');
+console.log('hello world today’);
